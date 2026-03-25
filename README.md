@@ -5,7 +5,7 @@ Excel dashboard analyzing product pricing, discounts, and customer reviews
 ## Project Overview
 This project demonstrates how Microsoft Excel can be used for real-world data analysis. The dataset includes product pricing, discounts, ratings, and customer reviews.
 
-## 🔧 Key Tasks Performed
+## Key Tasks Performed
 - Data cleaning and transformation
 - Handling missing values
 - Converting text to numeric formats
@@ -20,13 +20,13 @@ This project demonstrates how Microsoft Excel can be used for real-world data an
 - Category breakdown (Rating and Discount categories)
 - Interactive slicers for filtering
 
-##Tools Used
+## Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Charts and Visualizations
 - Formulas (IF, VALUE, LEFT, FIND, CORREL)
 
-##Key Insights
+## Key Insights
 - Higher discounts tend to increase customer engagement
 - Highly rated products generally receive more reviews
 - Product performance varies across discount categories
